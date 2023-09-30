@@ -1,0 +1,109 @@
+{
+  "fname": "Dhiraj",
+  "lname": "Basavaraju",
+  "role": "Full Stack Developer",
+  "summary": "Experienced software developer with 8 years of expertise in React JS frontend and Java Spring Boot backend development. Proven track record in delivering exceptional web solutions, excelling in cross-functional teams. Passionate about leveraging industry trends to drive innovation and excellence, with a strong desire to use developed software to help people.",
+  "contact": {
+    "email": "dhiraj.basavaraju@gmail.com",
+    "phone": "+91-8880093594",
+    "linkedinName": "dhirajb7",
+    "linkedin": "https://www.linkedin.com/in/dhirajb7/",
+    "portfolio": "https://portfolio-dhirajb7.vercel.app/"
+  },
+  "expertise": [
+    "HTML 5",
+    "CSS 3",
+    "JAVASCRIPT",
+    "REACT JS",
+    "REDUX",
+    "MATERIAL UI",
+    "ANT DESIGN",
+    "GIT",
+    "JAVA",
+    "SPRING BOOT",
+    "Postgre SQL"
+  ],
+  "education": [
+    {
+      "year": "2013",
+      "degreeName": "Bachelor of Engineering In Electronics",
+      "university": "Visvesvaraya Technological University"
+    },
+    {
+      "year": "2013",
+      "degreeName": "Bachelor of Engineering In Electronics",
+      "university": "Visvesvaraya Technological University"
+    }
+  ],
+  "achievement": [
+    {
+      "name": "Lorem  1",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+    },
+    {
+      "name": "Lorem dolor 2",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+    },
+    {
+      "name": "Lorem ipsum dolor 3",
+      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+    }
+  ],
+  "language": ["English", "Kannada", "Hindi"],
+  "experience": [
+    {
+      "from": "Mar 2022",
+      "to": "Present",
+      "companyName": "SmartQ",
+      "role": "React Developer",
+      "tasks": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+      ]
+    },
+    {
+      "from": "Jun 2020",
+      "to": "Mar 2022",
+      "companyName": "THIS IS! Digital Media Group Thailand Company Limited",
+      "role": "Full Stack Developer",
+      "tasks": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+      ]
+    },
+    {
+      "from": "Jan 2015",
+      "to": "Oct 2022",
+      "companyName": "Mindtree",
+      "role": "Software Engineer",
+      "tasks": [
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+      ]
+    }
+  ]
+}
