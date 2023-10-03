@@ -9,6 +9,7 @@ const loadData = (data) => {
   const {
     fname,
     lname,
+    role,
     summary,
     contact,
     expertise = [],
@@ -19,7 +20,7 @@ const loadData = (data) => {
   } = data;
   const { email, phone, linkedin, portfolio } = contact;
 
-  loadNameTitleSummary(fname, lname, summary);
+  loadNameTitleSummary(fname, lname, role, summary);
   loadPersonalDetails(email, phone, linkedin, portfolio);
   loadSkills(expertise);
   loadEducation(education);
@@ -32,10 +33,12 @@ const loadData = (data) => {
 //=====================loaders functions=============================
 //=====================================================================
 
-const loadNameTitleSummary = (fname, lname, summary) => {
+const loadNameTitleSummary = (fname, lname, role, summary) => {
   document.getElementById(
     "name"
   ).innerHTML = `<span id="fname">${fname}</span> ${lname}</div>`;
+
+  document.getElementById("role").innerText = role;
 
   document.getElementById("summary").innerText = summary;
 };
