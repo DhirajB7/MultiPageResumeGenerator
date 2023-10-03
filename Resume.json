@@ -32,16 +32,16 @@
   ],
   "achievement": [
     {
-      "name": "Lorem  1",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+      "name": "R&D Award",
+      "details": "By SmartQ for researching & building an application to manipulate data in GCP by google SSO"
     },
     {
-      "name": "Lorem dolor 2",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+      "name": "Spot On Award",
+      "details": "For best performer in Mindtree."
     },
     {
-      "name": "Lorem ipsum dolor 3",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, incidunt!"
+      "name": "Unstoppable Award",
+      "details": "Worked as individual contributer in a project in Mindtree."
     }
   ],
   "language": ["English", "Kannada", "Hindi"],
