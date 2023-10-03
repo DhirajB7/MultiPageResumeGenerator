@@ -4,6 +4,7 @@
 - In Json file education, achievement are array of objects.
 - in simple words json means {"key":"value"}
 - ### DO NOT CHANGE ANY KEY, CHANGE ONLY VALUE.
-- Better use json editor like https://jsoneditoronline.org/ or any IDE.
 - want to change color, change --primary-blue-color in Resume.css
 - ctrl+p or cmd+p should generate multi page PDF.
+- ### Better use VS CODE for JSON editing.
+- ### Use 'Live Server' Extension to launch html & not double click on html
