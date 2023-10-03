@@ -28,11 +28,6 @@
       "year": "2013",
       "degreeName": "Bachelor of Engineering In Electronics",
       "university": "Visvesvaraya Technological University"
-    },
-    {
-      "year": "2013",
-      "degreeName": "Bachelor of Engineering In Electronics",
-      "university": "Visvesvaraya Technological University"
     }
   ],
   "achievement": [
@@ -57,16 +52,15 @@
       "companyName": "SmartQ",
       "role": "React Developer",
       "tasks": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+        "Developed responsive web applications with React, Redux, and Material UI.",
+        "Maintained clean, efficient, and best-practice-compliant React codebase.",
+        "Deployed applications on Google Cloud Platform (GCP).",
+        "Researching and evaluating new frontend libraries, tools, and techniques that can enhance the development process.",
+        "Debug and troubleshoot UI issues, ensuring smooth functionality.",
+        "Addressed bugs and implemented code reviews for React web apps.",
+        "Participated in code reviews, offering valuable feedback to team members.",
+        "Stay updated with React trends and best practices.",
+        "Work in an agile team, participate in code reviews, and document."
       ]
     },
     {
@@ -75,16 +69,16 @@
       "companyName": "THIS IS! Digital Media Group Thailand Company Limited",
       "role": "Full Stack Developer",
       "tasks": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+        "Developed and maintained React applications for web using Class and Functional components.",
+        "Implemented state management using Redux & Context API.",
+        "Optimized application performance for speed and scalability using Memo, useMemo & useCallback hooks.",
+        "Addational libraries used with React, including React Router, Redux, Material UI, and Recharts.",
+        "Designed and implemented RESTful APIs effectively using Java, SpringBoot & PostgreSQL.",
+        "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger",
+        "Utilized Spring Data JPA for efficient database operations and query management",
+        "Developed backend microservice using Eureka Server-Client dependencies & Rest template ",
+        "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit",
+        "Implemented robust security using Spring Security, including JWT authentication"
       ]
     },
     {
@@ -93,16 +87,13 @@
       "companyName": "Mindtree",
       "role": "Software Engineer",
       "tasks": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Remnulla"
+        "Created modular and reusable React class based components from design mockups.",
+        "Seamlessly integrated React UI components with backend APIs.",
+        "Built internal projects using React, Redux, and Ant Design.",
+        "Debug and troubleshoot UI issues, ensuring smooth functionality.",
+        "Deploying and maintaining backend applications using Java & springboot .",
+        "Employed Spring Boot for simplifying database operations, including CRUD operations and query handling.",
+        "Developed automated test framework using Java and Selenium WebDriver to verify the functionality of web applications."
       ]
     }
   ]
