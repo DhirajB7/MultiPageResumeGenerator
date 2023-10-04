@@ -8,3 +8,5 @@
 - ctrl+p or cmd+p should generate multi page PDF.
 - ### Better use VS CODE for JSON editing.
 - ### Use 'Live Server' Extension to launch html & not double click on html
+- ctrl+p or cmd+p should generate multi page PDF.
+- Resume Sample are in pdf and png for ref.
