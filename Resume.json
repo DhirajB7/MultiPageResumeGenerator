@@ -77,8 +77,7 @@
         "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger",
         "Utilized Spring Data JPA for efficient database operations and query management",
         "Developed backend microservice using Eureka Server-Client dependencies & Rest template ",
-        "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit",
-        "Implemented robust security using Spring Security, including JWT authentication"
+        "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit"
       ]
     },
     {
