@@ -82,7 +82,7 @@
     },
     {
       "from": "Jan 2015",
-      "to": "Oct 2022",
+      "to": "Oct 2019",
       "companyName": "Mindtree",
       "role": "Software Engineer",
       "tasks": [
@@ -91,8 +91,7 @@
         "Built internal projects using React, Redux, and Ant Design.",
         "Debug and troubleshoot UI issues, ensuring smooth functionality.",
         "Deploying and maintaining backend applications using Java & springboot .",
-        "Employed Spring Boot for simplifying database operations, including CRUD operations and query handling.",
-        "Developed automated test framework using Java and Selenium WebDriver to verify the functionality of web applications."
+        "Employed Spring Boot for simplifying database operations, including CRUD operations and query handling."
       ]
     }
   ]
