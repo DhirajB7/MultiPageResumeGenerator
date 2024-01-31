@@ -1,8 +1,8 @@
 {
   "fname": "Dhiraj",
   "lname": "Basavaraju",
-  "role": "Software Developer",
-  "summary": "Experienced software developer with 9 years of expertise in React JS frontend and Java Spring Boot backend development.",
+  "role": "Front End Developer",
+  "summary": "5 years of experience in frontend development using React JS. Additionally worked on Java Developement for 4 more years.",
   "contact": {
     "email": "dhiraj.basavaraju@gmail.com",
     "phone": "+91-8880093594",
@@ -19,12 +19,12 @@
     "MATERIAL UI",
     "ANT DESIGN",
     "GIT",
+    "GOOGLE CLOUD PLATFORM (GCP)",
+    "FIREBASE",
     "JAVA",
     "SPRING BOOT",
     "PostgreSQL",
-    "REST API",
-    "FIREBASE",
-    "GOOGLE CLOUD PLATFORM (GCP)"
+    "REST API"
   ],
   "education": [
     {
@@ -36,7 +36,7 @@
   "achievement": [
     {
       "name": "Above & Beyond",
-      "details": "By SmartQ for improving in code optimization, performance & stability. "
+      "details": "By SmartQ for coding & improving applications Optimization, Performance & Stability."
     },
     {
       "name": "R&D Award",
@@ -57,7 +57,7 @@
       "from": "Mar 2022",
       "to": "Present",
       "companyName": "SmartQ",
-      "role": "React Developer",
+      "role": "Front End Developer",
       "tasks": [
         "Developed responsive web applications with React, Redux, and Material UI.",
         "Maintained clean, efficient, and best-practice-compliant React codebase.",
@@ -74,16 +74,14 @@
       "from": "Jun 2020",
       "to": "Mar 2022",
       "companyName": "THIS IS! Digital Media Group Thailand Company Limited",
-      "role": "Full Stack Developer",
+      "role": "Full Stack Developer [React.JS & Java Springboot] ",
       "tasks": [
         "Developed and maintained React applications for web using Class and Functional components.",
         "Implemented state management using Redux & Context API.",
         "Optimized application performance for speed and scalability using Memo, useMemo & useCallback hooks.",
-        "Addational libraries used with React, including React Router, Redux, Material UI, and Recharts.",
+        "Additional libraries used with React, including React Router, Redux, Material UI, and Recharts.",
+        "Debug and troubleshoot UI issues, ensuring smooth functionality.",
         "Designed and implemented RESTful APIs effectively using Java, SpringBoot & PostgreSQL.",
-        "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger.",
-        "Utilized Spring Data JPA for efficient database operations and query management.",
-        "Developed backend microservice using Eureka Server-Client dependencies & Rest template. ",
         "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit."
       ]
     },
@@ -91,15 +89,15 @@
       "from": "Jan 2015",
       "to": "Oct 2019",
       "companyName": "Mindtree",
-      "role": "Software Engineer",
+      "role": "Senior Software Engineer",
       "tasks": [
-        "Created modular and reusable React class based components from design mockups.",
+        "Created modular and reusable React JS class based components from design mockups.",
         "Seamlessly integrated React UI components with backend APIs.",
-        "Built internal projects using React, Redux, and Ant Design.",
-        "Deploying and maintaining backend applications using Java & springboot .",
-        "Employed Spring Boot for simplifying database operations, including CRUD operations and query handling.",
-        "Used Spring Data JPA for smooth database operations and queries.",
-        "Developed Java and Selenium projects with TestNG for automation efficiency."
+        "Along with React JS, Redux and Ant Design were used.",
+        "Deploying and maintaining backend applications using Java & springboot.",
+        "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger.",
+        "Utilized Spring Data JPA for efficient database operations and query management.",
+        "Developed backend microservice using Eureka Server-Client dependencies & Rest template."
       ]
     }
   ]
