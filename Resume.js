@@ -102,9 +102,13 @@ const loadAchievement = (achievement) => {
   }
 };
 
-const loadLanguage = (language) => {
+const loadLanguage = (language = []) => {
   const parentList = document.getElementById("language");
-  createUlLi(parentList, language);
+  if (language.length === 0) {
+    document.getElementById("language-section").style.display = "none";
+  } else {
+    createUlLi(parentList, language);
+  }
 };
 
 const loadExperience = (experience) => {

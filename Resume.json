@@ -1,8 +1,8 @@
 {
   "fname": "Dhiraj",
   "lname": "Basavaraju",
-  "role": "Front End Developer",
-  "summary": "9 years of experience in software development. Majorly worked on frontend development using React JS. Also worked on backend develepoment using Java.",
+  "role": "Software Developer",
+  "summary": "Experienced software developer with 9 years of expertise in React JS frontend and Java Spring Boot backend development.",
   "contact": {
     "email": "dhiraj.basavaraju@gmail.com",
     "phone": "+91-8880093594",
@@ -22,7 +22,9 @@
     "JAVA",
     "SPRING BOOT",
     "PostgreSQL",
-    "REST API"
+    "REST API",
+    "FIREBASE",
+    "GOOGLE CLOUD PLATFORM (GCP)"
   ],
   "education": [
     {
@@ -33,8 +35,12 @@
   ],
   "achievement": [
     {
+      "name": "Above & Beyond",
+      "details": "By SmartQ for improving in code optimization, performance & stability. "
+    },
+    {
       "name": "R&D Award",
-      "details": "By SmartQ for researching & building an application to manipulate data in GCP by google SSO"
+      "details": "By SmartQ for researching & building an application to manipulate data in GCP by google SSO."
     },
     {
       "name": "Spot On Award",
@@ -45,13 +51,13 @@
       "details": "Worked as individual contributer in a project in Mindtree."
     }
   ],
-  "language": ["English", "Kannada", "Hindi"],
+  "language": [],
   "experience": [
     {
       "from": "Mar 2022",
       "to": "Present",
       "companyName": "SmartQ",
-      "role": "Front End Developer",
+      "role": "React Developer",
       "tasks": [
         "Developed responsive web applications with React, Redux, and Material UI.",
         "Maintained clean, efficient, and best-practice-compliant React codebase.",
@@ -73,12 +79,11 @@
         "Developed and maintained React applications for web using Class and Functional components.",
         "Implemented state management using Redux & Context API.",
         "Optimized application performance for speed and scalability using Memo, useMemo & useCallback hooks.",
-        "Additional libraries used with React, including React Router, Redux, Material UI, and Recharts.",
-        "Debug and troubleshoot UI issues, ensuring smooth functionality.",
+        "Addational libraries used with React, including React Router, Redux, Material UI, and Recharts.",
         "Designed and implemented RESTful APIs effectively using Java, SpringBoot & PostgreSQL.",
         "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger.",
         "Utilized Spring Data JPA for efficient database operations and query management.",
-        "Developed backend microservice using Eureka Server-Client dependencies & Rest template.",
+        "Developed backend microservice using Eureka Server-Client dependencies & Rest template. ",
         "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit."
       ]
     },
@@ -86,14 +91,15 @@
       "from": "Jan 2015",
       "to": "Oct 2019",
       "companyName": "Mindtree",
-      "role": "Senior Software Engineer",
+      "role": "Software Engineer",
       "tasks": [
-        "Created modular and reusable React JS class based components from design mockups.",
+        "Created modular and reusable React class based components from design mockups.",
         "Seamlessly integrated React UI components with backend APIs.",
-        "Along with React JS, Redux and Ant Design were used.",
-        "Deploying and maintaining backend applications using Java & springboot.",
+        "Built internal projects using React, Redux, and Ant Design.",
+        "Deploying and maintaining backend applications using Java & springboot .",
         "Employed Spring Boot for simplifying database operations, including CRUD operations and query handling.",
-        "Additionally used Java with Selenium to build frontend automation framework."
+        "Used Spring Data JPA for smooth database operations and queries.",
+        "Developed Java and Selenium projects with TestNG for automation efficiency."
       ]
     }
   ]
