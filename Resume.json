@@ -1,7 +1,7 @@
 {
   "fname": "Dhiraj",
   "lname": "Basavaraju",
-  "role": "Front End Developer",
+  "role": "Software Developer",
   "summary": "5 years of experience in frontend development using React JS. Additionally worked on Java Developement for 4 more years.",
   "contact": {
     "email": "dhiraj.basavaraju@gmail.com",
@@ -57,7 +57,7 @@
       "from": "Mar 2022",
       "to": "Present",
       "companyName": "SmartQ",
-      "role": "Front End Developer",
+      "role": "Senior Software Developer [React.JS]",
       "tasks": [
         "Developed responsive web applications with React, Redux, and Material UI.",
         "Maintained clean, efficient, and best-practice-compliant React codebase.",
@@ -79,9 +79,11 @@
         "Developed and maintained React applications for web using Class and Functional components.",
         "Implemented state management using Redux & Context API.",
         "Optimized application performance for speed and scalability using Memo, useMemo & useCallback hooks.",
-        "Additional libraries used with React, including React Router, Redux, Material UI, and Recharts.",
-        "Debug and troubleshoot UI issues, ensuring smooth functionality.",
+        "Addational libraries used with React, including React Router, Redux, Material UI, and Recharts.",
         "Designed and implemented RESTful APIs effectively using Java, SpringBoot & PostgreSQL.",
+        "Defined API endpoints, request/response models, data serialization for efficient communication & API documentation using swagger.",
+        "Utilized Spring Data JPA for efficient database operations and query management.",
+        "Developed backend microservice using Eureka Server-Client dependencies & Rest template.",
         "Deployed code using filezilla, cicd gitlab & aws repositories by remote code commit."
       ]
     },
